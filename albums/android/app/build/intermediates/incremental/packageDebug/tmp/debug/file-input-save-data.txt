@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jun 10 18:02:54 EDT 2018
+#Sun Jun 10 18:30:30 EDT 2018
 17.baseType=DIRECTORY
 4.path=lib/armeabi-v7a/libglog.so
 25.base=/Users/Amrut/Courses/Udemy/Udemy_Courses/TheCompleteReactNativeAndReduxCourse/albums/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
